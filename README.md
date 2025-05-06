@@ -1,3 +1,3 @@
 # seeker-logo
 
-# For hosting image
+For hosting image
